@@ -14,7 +14,7 @@ Get Data
 git clone 
 cd worldCupData
 ```
-Angular Service
+Angular.js Service
 ----
 
 Data Structure
