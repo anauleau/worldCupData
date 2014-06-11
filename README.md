@@ -1,8 +1,5 @@
-World Cup Data
+World Cup Data - JSON
 ============
-
-World Cup Data in JSON
-----
 
 Files Included
 ----
