@@ -2,11 +2,25 @@ World Cup Data
 ============
 
 World Cup Data in JSON
+----
 
 Files Included
+----
 
-teams.json
+* teams.json
+* tournaments.json
+* tournamentSummaries.json
 
-tournaments.json
+Get Data
+----
+```sh
+git clone 
+cd worldCupData
+```
 
-tournamentSummaries.json
+Angular Service
+----
+
+Data Structure
+----
+
