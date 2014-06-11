@@ -14,7 +14,6 @@ Get Data
 git clone 
 cd worldCupData
 ```
-
 Angular Service
 ----
 
