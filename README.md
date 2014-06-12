@@ -9,7 +9,7 @@ cd worldCupData
 Files Included
 ----
 * teams.json
-* tournaments.json
+* games.json
 * tournamentSummaries.json
 
 teams.json structure
