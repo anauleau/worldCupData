@@ -63,5 +63,3 @@ tournamentSummaries.json structure
     }
 }
 ```
-Angular.js Service
-----
