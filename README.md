@@ -19,8 +19,8 @@ Angular.js Service
 
 Data Structure
 ----
-- teams.json
 ```sh
+teams.json
 {
   countryNameValue: {
     totalAppearances: totalAppearancesValue (int),
