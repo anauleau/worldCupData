@@ -63,3 +63,25 @@ tournamentSummaries.json structure
     }
 }
 ```
+games.json structure
+----
+```sh
+  {
+    date: dateValue (str),
+    tournament_year: tournament_yearValue (int),
+    time: timeValue (str),
+    location: locationValue (str),
+    attendance: attendanceValue (int),
+    stage: stageValue (str),
+    team_1: team_1Value (str),
+    team_1_goals: team_1_goalsValue (int),
+    team_2: team_2Value (str),
+    team_2_goals: team_2_goalsValue (int),
+    overtime: overtimeValue (bool),
+    penalties: penaltiesValue (bool),
+    team_2_penalties: team_2_penaltiesValue (int),
+    team_1_penalties: team_1_penaltiesValue (int),
+    stage_details: stage_detailsValue (str)
+  }
+```
+  
